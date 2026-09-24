@@ -1,4 +1,3 @@
-# Tritone
 ### Who we are
 Tritone Communications is an organization interested in old software.
 ### What we do
